@@ -1,0 +1,4 @@
+.env migrate
+.env.example migrate
+iphone-hands.webp filter=lfs diff=lfs merge=lfs -text
+public/og.png filter=lfs diff=lfs merge=lfs -text
